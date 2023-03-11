@@ -1,15 +1,15 @@
 [Please note that the following resolutions do not cover all matters that may need to be addressed in connection with the financing. For example, if any changes to the Company's Board of Directors are contemplated, or the size of the option pool will be changed, additional resolutions will be needed in this Board Consent and/or the Stockholder Consent. Always consult with counsel prior to using the consents.]
 
-# ACTION BY WRITTEN CONSENT OF THE STOCKHOLDERS OF [COMPANY NAME]
+# ACTION BY WRITTEN CONSENT OF THE STOCKHOLDERS OF TERRA BIOWORKS DBA TERRA BIOFORGE
 
-The undersigned stockholders of [COMPANY NAME], a Delaware corporation (the "Company"), pursuant to Section 228 of the Delaware General Corporation Law, hereby adopt and approve the following resolutions and the taking of the actions referred to in such resolutions, it being agreed that these resolutions will be effective only after such actions have been approved by the Company’s Board of Directors to the extent that such actions require the approval of the Company’s Board of Directors, provided that such later effectiveness shall not exceed 60 days from the earliest date of delivery of this Action by Written Consent:
+The undersigned stockholders of Terra Bioworks Inc., a Delaware corporation (the "Company"), pursuant to Section 228 of the Delaware General Corporation Law, hereby adopt and approve the following resolutions and the taking of the actions referred to in such resolutions, it being agreed that these resolutions will be effective only after such actions have been approved by the Company’s Board of Directors to the extent that such actions require the approval of the Company’s Board of Directors, provided that such later effectiveness shall not exceed 60 days from the earliest date of delivery of this Action by Written Consent:
 
 ## Amendment and Restatement of Certificate of Incorporation
 
 WHEREAS, the Company's Board of Directors (the "Board") has approved the amendment and restatement of the Company's Certificate of Incorporation in the form attached hereto as Exhibit A (the "Restated Certificate") that, among other things:
 
 1. increases the number of authorized shares of the Company's common stock (the "Common Stock") and preferred stock (the "Preferred Stock");
-2. designates [________] shares of the Company's authorized but unissued Preferred Stock as "Series Seed Preferred Stock" (the "Series Seed Preferred"); and 
+2. designates 1,000,000 shares of the Company's authorized but unissued Preferred Stock as "Series Seed Preferred Stock" (the "Series Seed Preferred"); and 
 3. sets forth rights, privileges and preferences of the Common Stock and the Series Seed Preferred.
 WHEREAS, the undersigned stockholders agree with the Board that it is in the best interests of the Company to amend and restate the Company's Certificate of Incorporation, as contemplated by the Restated Certificate.
 
@@ -25,7 +25,7 @@ WHEREAS, the Board believes it is in the best interests of the Company to issue 
 
 WHEREAS, after careful consideration, the undersigned stockholders have determined that the terms and conditions of the Financing are just and equitable and fair as to the Company and that it is in the best interests of the Company and the stockholders of the Company to enter into the Financing subject to the terms and conditions agreed upon by the parties.
 
-RESOLVED, that the Series Seed Preferred Stock Investment Agreement by and among the Company and the Purchasers (as defined therein) in substantially the form attached hereto as Exhibit B (the "Purchase Agreement"), providing for, among other things, the issuance and sale by the Company of shares of the Series Seed Preferred at a cash purchase price of $[_________] per share, which may be paid in cash, conversion of indebtedness or convertible securities, any other lawful form of consideration or any combination thereof, be, and it hereby is, approved in all respects;
+RESOLVED, that the Series Seed Preferred Stock Investment Agreement by and among the Company and the Purchasers (as defined therein) in substantially the form attached hereto as Exhibit B (the "Purchase Agreement"), providing for, among other things, the issuance and sale by the Company of shares of the Series Seed Preferred at a cash purchase price of $10.00 per share, which may be paid in cash, conversion of indebtedness or convertible securities, any other lawful form of consideration or any combination thereof, be, and it hereby is, approved in all respects;
 
 RESOLVED FURTHER, that the officers of the Company be, and each of them hereby is, authorized and directed, for and on behalf of the Company, to execute and deliver the Purchase Agreement, and any and all other agreements, certificates or documents required or contemplated by the Purchase Agreement or deemed necessary or appropriate in connection therewith, and to take all actions deemed necessary or appropriate to cause the Company's obligations thereunder to be performed; and
 
@@ -45,8 +45,8 @@ The undersigned have executed this Action by Written Consent as of the date set 
 
 __________________ |
 --- |
-[Stockholder Name] |
-Date: [_________]
+David Mead |
+Date: Sept 14, 2021
 
 __________________ |
 --- |
